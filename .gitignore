@@ -1,0 +1,19 @@
+/.idea
+/.vagrant
+*.iml
+*.iws
+*.pyc
+*.retry
+*.jar
+*.war
+*.db
+target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+

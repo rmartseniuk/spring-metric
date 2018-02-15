@@ -1,0 +1,17 @@
+server:
+  port: 8082
+
+management:
+  security:
+    enabled: false
+
+servo:
+  graphite:
+    observerPrefix: romantest
+    address: localhost:2003
+
+metrics:
+  graphite:
+    host: localhost
+    port: 8125
+    prefix: romantest
